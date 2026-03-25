@@ -22,3 +22,5 @@ Data set is sourced from - https://www.kaggle.com/datasets/abhishekkaggle8585/he
 * Accuracy: 61.9%
 * F1 Score: 0.074
 * ROC-AUC Score: 0.58
+
+NOTE - The accuracy of the model is low because the dataset has very limited samples and it is created only for the purpose to perform the basic preprocessing techniques.
